@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm Roman - Software Engeener, gopher, music listener.
+I'm Roman - software developer, gopher, music listener.
 
 ## Domains
 
