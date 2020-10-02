@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/-roman.suvorov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsuvorov/)](https://www.linkedin.com/in/rsuvorov/)
-[![Gmail Badge](https://img.shields.io/badge/-roman.suvorov-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suvorov83@gmail.com)](mailto:suvorov83@gmail.com)
-
 ![wallpapers](assets/3.png)
 
-## About Me
+## About Me 
+[![LinkedIn Badge](https://img.shields.io/badge/-roman.suvorov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsuvorov/)](https://www.linkedin.com/in/rsuvorov/)
+[![Gmail Badge](https://img.shields.io/badge/-roman.suvorov-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suvorov83@gmail.com)](mailto:suvorov83@gmail.com)
 
 I'm Roman - software developer, gopher, music listener.
 
