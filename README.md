@@ -21,10 +21,6 @@ I'm Roman - software developer, gopher, music listener.
 - Python
 - Databases
 
-## Stats
-
-![Roman Suvorov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tty2&hide=["stars"]&show_icons=true)
-
 <!--
 **tty2/tty2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
