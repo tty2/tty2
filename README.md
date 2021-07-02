@@ -2,11 +2,11 @@
 
 ![wallpapers](assets/3.png)
 
-## About Me 
+<!-- ## About Me 
 [![LinkedIn Badge](https://img.shields.io/badge/-roman.suvorov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsuvorov/)](https://www.linkedin.com/in/rsuvorov/)
-[![Gmail Badge](https://img.shields.io/badge/-roman.suvorov-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suvorov83@gmail.com)](mailto:suvorov83@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-roman.suvorov-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suvorov83@gmail.com)](mailto:suvorov83@gmail.com) -->
 
-I'm Roman - software developer, gopher, music listener.
+<!-- I'm Roman - software developer, gopher, music listener.
 
 ## Domains
 
@@ -19,7 +19,7 @@ I'm Roman - software developer, gopher, music listener.
 
 - Go
 - Python
-- Databases
+- Databases -->
 
 <!--
 **tty2/tty2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
