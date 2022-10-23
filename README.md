@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-roman.suvorov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rsuvorov/)](https://www.linkedin.com/in/rsuvorov/)
 [![Gmail Badge](https://img.shields.io/badge/-roman.suvorov-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:suvorov83@gmail.com)](mailto:suvorov83@gmail.com) -->
 
-I'm Roman - software developer, music listener, citizen of the world.
+I'm Roman - software developer, music listener.
 <!-- 
 ## Domains
 
